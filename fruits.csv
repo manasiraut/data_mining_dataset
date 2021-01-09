@@ -1,0 +1,366 @@
+0,1,2,3,4,5,6
+Apple,Banana,Cherries,Jackfruit,Cranberries,Orange,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Mango,Mango
+Banana,Cherries,Grapes,Orange,Cranberries,Banana,Banana
+Cherries,Cherries,Cranberries,,Mango,Jackfruit,Jackfruit
+Grapes,Apple,Cranberries,Cherries,Banana,Grapes,Grapes
+Cranberries,Cherries,Grapes,Banana,Jackfruit,Cherries,Cherries
+Custard-Apple,Apple,Orange,Cherries,Grapes,Cherries,Cherries
+Apple,Jackfruit,Banana,Orange,Cherries,Orange,Orange
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Guava,Guava
+Banana,Cherries,Grapes,Orange,Orange,Mango,Mango
+Custard-Apple,Grapes,Cherries,Apple,Guava,Cherries,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Mango,Cherries,Cherries
+Custard-Apple,Banana,Orange,Cherries,Cherries,Orange,Orange
+Guava,Guava,Guava,Guava,Cherries,Guava,Guava
+Mango,Mango,Mango,Mango,Orange,Mango,Mango
+Banana,Cherries,Grapes,Orange,Guava,Banana,Banana
+Custard-Apple,Grapes,Cherries,Apple,Mango,Jackfruit,Jackfruit
+Apple,Jackfruit,Cherries,Custard-Apple,Banana,Grapes,Grapes
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Cherries,Cherries
+Apple,Jackfruit,Banana,Orange,Grapes,Cherries,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Orange,Orange
+Banana,Cherries,Grapes,Orange,Cherries,Guava,Guava
+Custard-Apple,Grapes,Cherries,Apple,Orange,Mango,Mango
+Apple,Jackfruit,Cherries,Custard-Apple,Guava,Grapes,Grapes
+Custard-Apple,Banana,Orange,Cherries,Mango,Cherries,Cherries
+Guava,Guava,Guava,Guava,Grapes,Guava,Guava
+Mango,Mango,Mango,Mango,Cherries,Mango,Mango
+Banana,Cherries,Grapes,Orange,Cranberries,,
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cranberries,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,,Mango
+Custard-Apple,Banana,Orange,Cherries,,,Banana
+Cranberries,Cherries,Grapes,Banana,Mango,,Jackfruit
+Custard-Apple,Apple,Orange,Cherries,Banana,,Grapes
+Apple,Jackfruit,Banana,Orange,Jackfruit,Grapes,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Grapes,Grapes,Cherries
+Banana,Cherries,Grapes,Orange,Cherries,,Orange
+Custard-Apple,Grapes,Cherries,Apple,Cherries,Cranberries,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Orange,,Mango
+Custard-Apple,Banana,Orange,Cherries,Guava,,Cherries
+Guava,Guava,Guava,Guava,Mango,Guava,Cherries
+Mango,Mango,Mango,Mango,Cherries,Mango,Orange
+Custard-Apple,Banana,Orange,Cherries,Cherries,Mango,Guava
+Guava,Guava,Guava,Guava,Orange,Banana,Mango
+Mango,Mango,Mango,Mango,Guava,Jackfruit,Banana
+Cranberries,Cherries,Grapes,Banana,Mango,Grapes,Jackfruit
+Custard-Apple,Apple,Orange,Cherries,Banana,Cherries,Grapes
+Apple,Jackfruit,Banana,Orange,Jackfruit,Cherries,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Grapes,Orange,Cherries
+Banana,Cherries,Grapes,Orange,Cherries,Guava,Orange
+Custard-Apple,Grapes,Cherries,Apple,Cherries,Mango,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Orange,Cherries,Mango
+Custard-Apple,Banana,Orange,Cherries,Guava,Cherries,Grapes
+Guava,Guava,Guava,Guava,Mango,Orange,Cherries
+Mango,Mango,Mango,Mango,Grapes,Guava,Mango
+Apple,Jackfruit,Banana,Orange,Cherries,Mango,
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Banana,Banana
+Cranberries,Cherries,Grapes,Banana,,Jackfruit,Mango
+Cranberries,Cherries,Grapes,Banana,,Grapes,Banana
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Cherries,Jackfruit
+Apple,Jackfruit,Banana,Orange,Cranberries,Cherries,Grapes
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Orange,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Guava,Cherries
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Mango,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Grapes,Guava
+Custard-Apple,Banana,Orange,Cherries,,Cherries,Mango
+Guava,Guava,Guava,Guava,Guava,Guava,Cherries
+Mango,Mango,Mango,Mango,Mango,Mango,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Mango,Orange
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Banana,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Jackfruit,Mango
+Custard-Apple,Banana,Orange,Cherries,,Grapes,Banana
+Guava,Guava,Guava,Guava,Guava,Cherries,Jackfruit
+Mango,Mango,Mango,Mango,Mango,Cherries,Grapes
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Orange,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Guava,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Mango,Orange
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Guava
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Mango
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Grapes
+Custard-Apple,Banana,Orange,Cherries,,Guava,Cherries
+Guava,Guava,Guava,Guava,Guava,Mango,Guava
+Mango,Mango,Mango,Mango,Mango,Banana,Mango
+Cranberries,Cherries,Grapes,Banana,,Jackfruit,
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Grapes,Mango
+Apple,Jackfruit,Banana,Orange,Cranberries,Cherries,Banana
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Jackfruit
+Banana,Cherries,Grapes,Orange,Cranberries,Orange,Grapes
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Guava,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Mango,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Grapes,Orange
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Guava
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cranberries,Mango
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Mango,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Banana,Cherries
+Guava,Guava,Guava,Guava,Guava,Jackfruit,Orange
+Mango,Mango,Mango,Mango,Mango,Grapes,Guava
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Banana
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Jackfruit
+Custard-Apple,Banana,Orange,Cherries,,Guava,Grapes
+Cranberries,Cherries,Grapes,Banana,,Mango,Cherries
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Cherries,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Cherries,Orange
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Orange,Guava
+Banana,Cherries,Grapes,Orange,Cranberries,Guava,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Mango,Grapes
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Banana,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Jackfruit,
+Guava,Guava,Guava,Guava,Guava,Grapes,Guava
+Mango,Mango,Mango,Mango,Mango,Cherries,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Mango
+Custard-Apple,Banana,Orange,Cherries,Mango,Guava,Banana
+Guava,Guava,Guava,Guava,Banana,Mango,Jackfruit
+Mango,Mango,Mango,Mango,Jackfruit,Grapes,Grapes
+Apple,Jackfruit,Banana,Orange,Grapes,Cherries,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Grapes,Cherries
+Banana,Cherries,Grapes,Orange,Cherries,,Orange
+Custard-Apple,Grapes,Cherries,Apple,Orange,Cranberries,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Guava,Mango,Mango
+Custard-Apple,Banana,Orange,Cherries,Mango,Banana,Cherries
+Guava,Guava,Guava,Guava,Cherries,Jackfruit,Cherries
+Mango,Mango,Mango,Mango,Cherries,Grapes,Orange
+Custard-Apple,Grapes,Cherries,Apple,Orange,Cherries,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Guava,Cherries,Mango
+Custard-Apple,Banana,Orange,Cherries,Mango,Orange,Banana
+Guava,Guava,Guava,Guava,Banana,Guava,Jackfruit
+Mango,Mango,Mango,Mango,Jackfruit,Mango,Grapes
+Apple,Jackfruit,Banana,Orange,Grapes,Cherries,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Cherries
+Banana,Cherries,Grapes,Orange,Cherries,Orange,Orange
+Custard-Apple,Grapes,Cherries,Apple,Orange,Guava,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Guava,Mango,Mango
+Custard-Apple,Banana,Orange,Cherries,Mango,Banana,Grapes
+Guava,Guava,Guava,Guava,Grapes,Jackfruit,Cherries
+Mango,Mango,Mango,Mango,Cherries,Grapes,Mango
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Mango
+Custard-Apple,Banana,Orange,Cherries,,Guava,Banana
+Guava,Guava,Guava,Guava,Guava,Mango,Jackfruit
+Guava,Guava,Guava,Guava,Guava,Grapes,Grapes
+Cranberries,Cherries,Grapes,Banana,,Cherries,Cherries
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Mango,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Banana,Orange
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Jackfruit,Guava
+Banana,Cherries,Grapes,Orange,Cranberries,Grapes,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Cherries,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Orange,Orange
+Guava,Guava,Guava,Guava,Guava,Guava,Guava
+Mango,Mango,Mango,Mango,Mango,Mango,Mango
+Apple,Jackfruit,Banana,Orange,Cranberries,Cherries,Banana
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Jackfruit
+Banana,Cherries,Grapes,Orange,Cranberries,Orange,Grapes
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Guava,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Mango,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Banana,Orange
+Guava,Guava,Guava,Guava,Guava,Jackfruit,Guava
+Mango,Mango,Mango,Mango,Mango,Grapes,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Grapes
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Cherries,Cherries
+Custard-Apple,Banana,Orange,Cherries,Mango,Orange,Mango
+Guava,Guava,Guava,Guava,Banana,Guava,Banana
+Apple,Jackfruit,Banana,Orange,Jackfruit,Mango,Jackfruit
+Custard-Apple,Cranberries,Jackfruit,Cherries,Grapes,Grapes,Grapes
+Banana,Cherries,Grapes,Orange,Cherries,Cherries,Cherries
+Custard-Apple,Grapes,Cherries,Apple,Cherries,Cranberries,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Orange,Mango,Orange
+Custard-Apple,Banana,Orange,Cherries,Guava,Banana,Guava
+Guava,Guava,Guava,Guava,Mango,Jackfruit,Mango
+Mango,Mango,Mango,Mango,Cherries,Grapes,Cherries
+Banana,Cherries,Grapes,Orange,Cherries,Cherries,Cherries
+Custard-Apple,Grapes,Cherries,Apple,Orange,Cherries,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Guava,Orange,Guava
+Custard-Apple,Banana,Orange,Cherries,Mango,Guava,Mango
+Apple,Jackfruit,Banana,Orange,Banana,Mango,Banana
+Custard-Apple,Cranberries,Jackfruit,Cherries,Jackfruit,Cherries,Jackfruit
+Banana,Cherries,Grapes,Orange,Grapes,Cherries,Grapes
+Custard-Apple,Grapes,Cherries,Apple,Cherries,Orange,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Guava,Cherries
+Custard-Apple,Banana,Orange,Cherries,Orange,Mango,Orange
+Guava,Guava,Guava,Guava,Guava,Banana,Guava
+Mango,Mango,Mango,Mango,Mango,Jackfruit,Mango
+Apple,Jackfruit,Banana,Orange,Grapes,Grapes,Grapes
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Orange,Banana
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Guava,Jackfruit
+Custard-Apple,Banana,Orange,Cherries,,Mango,Grapes
+Apple,Jackfruit,Banana,Orange,Cranberries,Grapes,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,,Orange
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cranberries,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Mango,Mango
+Custard-Apple,Banana,Orange,Cherries,,Banana,Cherries
+Guava,Guava,Guava,Guava,Guava,Jackfruit,Cherries
+Mango,Mango,Mango,Mango,Mango,Grapes,Orange
+Cranberries,Cherries,Grapes,Banana,,Cherries,Guava
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Cherries,Mango
+Apple,Jackfruit,Banana,Orange,Cranberries,Orange,Banana
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Guava,Jackfruit
+Banana,Cherries,Grapes,Orange,Cranberries,Mango,Grapes
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Cherries,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Orange,Orange
+Apple,Jackfruit,Banana,Orange,Cranberries,Guava,Guava
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Mango,Mango
+Banana,Cherries,Grapes,Orange,Cranberries,Banana,Grapes
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Jackfruit,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Grapes,Mango
+Custard-Apple,Banana,Orange,Cherries,,Cherries,Banana
+Guava,Guava,Guava,Guava,Guava,Cherries,Jackfruit
+Mango,Mango,Mango,Mango,Mango,Orange,Grapes
+Custard-Apple,Apple,Orange,Cherries,Jackfruit,Guava,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Mango,Cherries
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Grapes,Orange
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Guava
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cranberries,Mango
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Mango,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Banana,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Jackfruit,Orange
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Grapes,Guava
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Banana
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Jackfruit
+Custard-Apple,Banana,Orange,Cherries,,Guava,Grapes
+Guava,Guava,Guava,Guava,Guava,Mango,Cherries
+Mango,Mango,Mango,Mango,Mango,Cherries,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Orange
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Orange,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Guava,Mango
+Custard-Apple,Banana,Orange,Cherries,,Mango,Grapes
+Guava,Guava,Guava,Guava,Guava,Banana,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Jackfruit,Mango
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Grapes,Banana
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Jackfruit
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Cherries,Grapes
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Cherries
+Custard-Apple,Banana,Orange,Cherries,,Guava,Cherries
+Guava,Guava,Guava,Guava,Guava,Mango,Orange
+Mango,Mango,Mango,Mango,Mango,Grapes,Guava
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Cherries,Mango
+Custard-Apple,Banana,Orange,Cherries,,,Cherries
+Guava,Guava,Guava,Guava,Guava,Guava,Cherries
+Apple,Jackfruit,Banana,Orange,Cranberries,Grapes,Orange
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Grapes,Guava
+Banana,Cherries,Grapes,Orange,Cranberries,Mango,Mango
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Banana,Banana
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Jackfruit,Jackfruit
+Custard-Apple,Banana,Orange,Cherries,,Grapes,Grapes
+Guava,Guava,Guava,Guava,Guava,Cherries,Cherries
+Mango,Mango,Mango,Mango,Mango,Cherries,Cherries
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Orange,Orange
+Custard-Apple,Banana,Orange,Cherries,,Guava,Guava
+Guava,Guava,Guava,Guava,Guava,Mango,Mango
+Apple,Jackfruit,Banana,Orange,Cranberries,Cherries,Grapes
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Orange,
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Guava,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Mango,Mango
+Custard-Apple,Banana,Orange,Cherries,,Banana,Banana
+Guava,Guava,Guava,Guava,Guava,Jackfruit,Jackfruit
+Mango,Mango,Mango,Mango,Mango,Grapes,Grapes
+Custard-Apple,Cranberries,Jackfruit,Cherries,Cherries,Cherries,Cherries
+Banana,Cherries,Grapes,Orange,Cranberries,Cherries,Cherries
+Custard-Apple,Grapes,Cherries,Apple,Jackfruit,Orange,Orange
+Apple,Jackfruit,Cherries,Custard-Apple,Cherries,Guava,Guava
+Custard-Apple,Banana,Orange,Cherries,,Mango,Mango
+burgers,Cherriesballs,burgers,burgers,burgers,burgers,turkey
+chutney,,chutney,chutney,chutney,chutney,Cherriesballs
+turkey,avocado,turkey,turkey,turkey,turkey,red Cranberries
+mineral water,Orange,mineral water,mineral water,mineral water,mineral water,rice
+low fat yogurt,,low fat yogurt,low fat yogurt,low fat yogurt,low fat yogurt,spaghetti
+whole wheat pasta,french fries,whole wheat pasta,whole wheat pasta,whole wheat pasta,whole wheat pasta,burgers
+soup,light cream,soup,soup,soup,soup,Grapes
+frozen vegetables,spaghetti,frozen vegetables,frozen vegetables,frozen vegetables,frozen vegetables,parmesan Banana
+french fries,,french fries,french fries,french fries,french fries,ground beef
+Grapes,pet food,Grapes,Grapes,Grapes,Grapes,sparkling water
+cookies,chocolate,cookies,cookies,cookies,cookies,mineral water
+turkey,Grapes,mineral water,Grapes,cooking oil,chocolate,turkey
+spaghetti,fresh tuna,cookies,chocolate,turkey,Grapes,turkey
+mineral water,Orange,Guava,Grapes,turkey,fresh tuna,turkey
+mineral water,shrimp,turkey,fresh tuna,turkey,Orange,turkey
+shrimp,sparkling water,tomatoes,Orange,oil,shrimp,low fat yogurt
+turkey,mineral water,honey,shrimp,turkey,sparkling water,
+turkey,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+Cherriesballs,turkey,turkey,mineral water,protein bar,grated Banana,shampoo
+red Cranberries,shrimp,ham,grated Banana,Grapes,chocolate,shampoo
+rice,sparkling water,shrimp,spaghetti,spaghetti,spaghetti,spaghetti
+spaghetti,mineral water,ham,tomato sauce,tomato sauce,tomato sauce,tomato sauce
+burgers,grated Banana,shrimp,chocolate,chocolate,chocolate,chocolate
+Grapes,sparkling water,sparkling water,french fries,french fries,french fries,french fries
+parmesan Banana,mineral water,mineral water,strong Banana,strong Banana,strong Banana,strong Banana
+ground beef,grated Banana,grated Banana,Orange,energy bar,black tea,salmon
+sparkling water,light cream,soup,soup,soup,soup,Grapes
+mineral water,spaghetti,frozen vegetables,frozen vegetables,frozen vegetables,frozen vegetables,parmesan Banana
+frozen vegetables,,french fries,french fries,french fries,french fries,ground beef
+herb & pepper,pet food,Grapes,Grapes,Grapes,Grapes,sparkling water
+mineral water,chocolate,cookies,cookies,cookies,cookies,mineral water
+turkey,Grapes,mineral water,Grapes,cooking oil,chocolate,turkey
+frozen vegetables,fresh tuna,cookies,chocolate,turkey,Grapes,turkey
+cookies,Orange,Guava,Grapes,turkey,fresh tuna,turkey
+pickles,shrimp,turkey,fresh tuna,turkey,Orange,turkey
+energy bar,sparkling water,tomatoes,Orange,oil,shrimp,low fat yogurt
+red Cranberries,mineral water,honey,shrimp,turkey,sparkling water,
+mineral water,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+pickles,turkey,turkey,mineral water,protein bar,grated Banana,shampoo
+spaghetti,shrimp,ham,grated Banana,Grapes,chocolate,shampoo
+fresh tuna,sparkling water,shrimp,spaghetti,spaghetti,spaghetti,spaghetti
+spaghetti,mineral water,ham,tomato sauce,tomato sauce,tomato sauce,tomato sauce
+soup,Cherriesballs,hot dogs,sparkling water,,Cherriesballs,hot dogs
+escalope,Cherriesballs,hot dogs,sparkling water,,Cherriesballs,hot dogs
+soup,avocado,french fries,hot dogs,brownies,avocado,french fries
+mineral water,Guava,cereals,clothes accessories,,Guava,cereals
+mineral water,bug spray,sparkling water,tomatoes,Orange,oil,shrimp
+avocado,muffins,mineral water,honey,shrimp,turkey,sparkling water
+burgers,black tea,grated Banana,pasta,sparkling water,mineral water,mineral water
+spaghetti,chocolate,brownies,white Cranberries,green tea,chocolate,brownies
+fresh tuna,mineral water,sparkling water,tomatoes,Orange,oil,shrimp
+spaghetti,muffins,mineral water,honey,shrimp,turkey,sparkling water
+spaghetti,chocolate,grated Banana,pasta,sparkling water,mineral water,mineral water
+french fries,muffins,mineral water,honey,shrimp,turkey,sparkling water
+tomato sauce,black tea,grated Banana,pasta,sparkling water,mineral water,mineral water
+turkey,chocolate,brownies,white Cranberries,green tea,chocolate,brownies
+Grapes,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+soup,turkey,turkey,mineral water,protein bar,grated Banana,shampoo
+turkey,sparkling water,tomatoes,Orange,oil,shrimp,low fat yogurt
+spaghetti,mineral water,honey,shrimp,turkey,sparkling water,
+clothes accessories,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+energy drink,turkey,turkey,mineral water,protein bar,grated Banana,shampoo
+soup,shrimp,ham,grated Banana,Grapes,chocolate,shampoo
+turkey,sparkling water,shrimp,spaghetti,spaghetti,spaghetti,spaghetti
+french fries,mineral water,ham,tomato sauce,tomato sauce,tomato sauce,tomato sauce
+chocolate,grated Banana,shrimp,chocolate,chocolate,chocolate,chocolate
+herb & pepper,sparkling water,sparkling water,french fries,french fries,french fries,french fries
+cookies,mineral water,mineral water,strong Banana,strong Banana,strong Banana,strong Banana
+shrimp,grated Banana,grated Banana,Orange,energy bar,black tea,salmon
+grated Banana,light cream,soup,soup,soup,soup,Grapes
+turkey,sparkling water,tomatoes,Orange,oil,shrimp,low fat yogurt
+spaghetti,mineral water,honey,shrimp,turkey,sparkling water,
+clothes accessories,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+Grapes,pet food,Grapes,Grapes,Grapes,Grapes,sparkling water
+cookies,chocolate,cookies,cookies,cookies,cookies,mineral water
+turkey,Grapes,mineral water,Grapes,cooking oil,chocolate,turkey
+spaghetti,fresh tuna,cookies,chocolate,turkey,Grapes,turkey
+mineral water,Orange,Guava,Grapes,turkey,fresh tuna,turkey
+mineral water,shrimp,turkey,fresh tuna,turkey,Orange,turkey
+shrimp,sparkling water,tomatoes,Orange,oil,shrimp,low fat yogurt
+turkey,mineral water,honey,shrimp,turkey,sparkling water,
+turkey,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+Cherriesballs,turkey,turkey,mineral water,protein bar,grated Banana,shampoo
+red Cranberries,shrimp,ham,grated Banana,Grapes,chocolate,shampoo
+rice,sparkling water,shrimp,spaghetti,spaghetti,spaghetti,spaghetti
+spaghetti,mineral water,ham,tomato sauce,tomato sauce,tomato sauce,tomato sauce
+Grapes,pet food,Grapes,Grapes,Grapes,Grapes,sparkling water
+cookies,chocolate,cookies,cookies,cookies,cookies,mineral water
+turkey,Grapes,mineral water,Grapes,cooking oil,chocolate,turkey
+spaghetti,fresh tuna,cookies,chocolate,turkey,Grapes,turkey
+mineral water,Orange,Guava,Grapes,turkey,fresh tuna,turkey
+mineral water,shrimp,turkey,fresh tuna,turkey,Orange,turkey
+shrimp,sparkling water,tomatoes,Orange,oil,shrimp,low fat yogurt
+turkey,mineral water,honey,shrimp,turkey,sparkling water,
+turkey,grated Banana,pasta,sparkling water,mineral water,mineral water,salmon
+Cherriesballs,turkey,turkey,mineral water,protein bar,grated Banana,shampoo
